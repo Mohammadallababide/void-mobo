@@ -13,7 +13,6 @@ import '../../components/widgets/tear_drop_button.dart';
 
 class LoginScreen9 extends StatefulWidget {
   LoginScreen9({ 
-    
     required this.themeBloc,
   });
 
