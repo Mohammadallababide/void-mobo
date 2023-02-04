@@ -12,11 +12,12 @@ import '../../components/widgets/tear_drop_button.dart';
 
 
 class LoginScreen9 extends StatefulWidget {
-  LoginScreen9({
+  LoginScreen9({ 
+    
     required this.themeBloc,
   });
 
-  final ThemeBloc themeBloc;
+  final ThemeBloc themeBloc; 
 
   @override
   _LoginScreen9State createState() => _LoginScreen9State();
